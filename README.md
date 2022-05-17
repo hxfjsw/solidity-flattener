@@ -1,3 +1,6 @@
+--registry=http://registry.npm.taobao.org 
+
+
 # Solidity smart-contract flattened source file generation
 
 [![Build Status](https://travis-ci.org/poanetwork/solidity-flattener.svg?branch=master)](https://travis-ci.org/poanetwork/solidity-flattener)
